@@ -1,0 +1,12 @@
+{
+  "name": "jokeliquid",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "ts-node scripts/openPosition.ts",
+    "test": "ts-node tests/engine.test.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
